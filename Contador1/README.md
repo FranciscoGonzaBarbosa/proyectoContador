@@ -1,1 +1,0 @@
-# Aplicacion Android Contador Manual.
